@@ -17,4 +17,4 @@ donations can be made on both platform for compassionate users.
 Tools used for setup:
 Website : Strikingly
 Mobile Application: Figma
-User Manual: Canva
+User Manual: Microsoft Word
